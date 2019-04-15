@@ -1,4 +1,4 @@
-https://img.shields.io/appveyor/ci/psadmin-io/slackarchive.svg
+[![Build Status](https://travis-ci.org/psadmin-io/slackarchive.svg?branch=master)](https://travis-ci.org/psadmin-io/slackarchive)
 
 # slackarchive
 Tools to create the slackarchive.aws.psadmin.cloud site
