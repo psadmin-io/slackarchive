@@ -1,3 +1,5 @@
+https://img.shields.io/appveyor/ci/psadmin-io/slackarchive.svg
+
 # slackarchive
 Tools to create the slackarchive.aws.psadmin.cloud site
 
